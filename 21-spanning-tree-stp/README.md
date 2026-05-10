@@ -7,13 +7,13 @@
 
 ---
 
-## 🎯 Objective
+## Objective
 
 Analyse and manipulate Spanning Tree Protocol (STP) behaviour across a four-switch topology. This lab covers root bridge election, port role/state identification, cost and priority manipulation, and configuring access-layer security features PortFast and BPDU Guard.
 
 ---
 
-## 🖧 Topology Overview
+## Topology Overview
 
 A four-switch topology (SW1, SW2, SW3, SW4) interconnected via FastEthernet interfaces, running IEEE 802.1D STP across **VLAN 1** and **VLAN 2**.
 
@@ -26,7 +26,7 @@ A four-switch topology (SW1, SW2, SW3, SW4) interconnected via FastEthernet inte
 
 ---
 
-## 🔧 Lab Tasks
+## Lab Tasks
 
 ---
 
@@ -205,7 +205,7 @@ This warning is expected and does not prevent configuration — it is a reminder
 
 ---
 
-## ✅ Verification Summary
+## Verification Summary
 
 | Task | Verified Via |
 |------|-------------|
@@ -217,7 +217,7 @@ This warning is expected and does not prevent configuration — it is a reminder
 
 ---
 
-## 📚 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 | Concept | Description |
 |---------|-------------|
@@ -232,7 +232,7 @@ This warning is expected and does not prevent configuration — it is a reminder
 
 ---
 
-## 💡 Reflection
+## Reflection
 
 Task 4 was the most instructive — the port priority change had no visible effect because STP never reached the tiebreaker stage. It demonstrated that STP follows a strict decision hierarchy: path cost is evaluated before port priority, meaning manipulating priority is a no-op unless costs are already equal. Task 3 was the cleaner demonstration of topology manipulation — raising the cost directly and immediately shifted SW4's root port, with results visible in `show spanning-tree`.
 
