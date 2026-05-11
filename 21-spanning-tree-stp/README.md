@@ -241,4 +241,4 @@ Task 4 was the most informative step, as the port priority change had no visible
 ---
 
 *Lab file: `Day_21_Lab_-_Configuring_Spanning_Tree_1_.pkt`*  
-*Jeremy's IT Lab - Day 21 | Cert IV in Cyber Security*
+*Jeremy's IT Lab - Day 21 | Independent CCNA Study*
