@@ -99,7 +99,11 @@ Port roles were determined manually by working through root cost, bridge ID, and
 | Fa0/24    | Designated | Forwarding |
 | Gi0/1     | Designated | Forwarding |
 
+
+
 ![SW3 CLI - note Packet Tracer renders roles incorrectly on this switch](./screenshots/screenshot_3.png)
+
+> Note: Packet Tracer displays the incorrect roles on this switch
 
 **SW4:**
 
@@ -223,7 +227,7 @@ SW4(config-if)# spanning-tree portfast
 
 | Task | Verified Via |
 |------|-------------|
-| Root bridge identification | `show spanning-tree` - confirmed "This bridge is the root" on SW1 |
+| Root bridge identification | `show spanning-tree` confirmed "This bridge is the root" on SW1 |
 | Port role/state mapping | `show spanning-tree` per switch, cross-referenced against manual calculations |
 | Packet Tracer errors | Cross-referenced against Jeremy's IT Lab demonstration video |
 | Link type configuration | Commands applied per interface and confirmed in CLI output |
