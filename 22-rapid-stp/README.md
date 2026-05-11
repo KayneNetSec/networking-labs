@@ -255,4 +255,4 @@ The most challenging part of this lab was working through the tiebreaker decisio
 ---
 
 *Lab file: `Day_22_Lab_-_Rapid_STP.pkt`*  
-*Jeremy's IT Lab - Day 22 | Cert IV in Cyber Security*
+*Jeremy's IT Lab - Day 22 | Independent CCNA Study*
