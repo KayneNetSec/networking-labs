@@ -8,9 +8,9 @@ Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certi
 
 | # | Lab | Topics Covered | Platform |
 |---|-----|----------------|----------|
-| 21 | [Spanning Tree Protocol](./labs/21-spanning-tree-stp/) | Root bridge election, port roles and states, PVST+, STP cost and priority manipulation, PortFast, BPDU Guard | Packet Tracer |
-| 22 | [Rapid Spanning Tree Protocol](./labs/22-rapid-stp/) | RSTP port roles, Backup and Alternate ports, link types, hub behaviour | Packet Tracer |
-| 23 | [EtherChannel](./labs/23-etherchannel/) | LACP, PAgP, static EtherChannel, Layer 3 EtherChannel, IP routing, load balancing | Packet Tracer |
+| 21 | [Spanning Tree Protocol](./labs/21-spanning-tree-stp/README.md) | Root bridge election, port roles and states, PVST+, STP cost and priority manipulation, PortFast, BPDU Guard | Packet Tracer |
+| 22 | [Rapid Spanning Tree Protocol](./labs/22-rapid-stp/README.md) | RSTP port roles, Backup and Alternate ports, link types, hub behaviour | Packet Tracer |
+| 23 | [EtherChannel](./labs/23-etherchannel/README.md) | LACP, PAgP, static EtherChannel, Layer 3 EtherChannel, IP routing, load balancing | Packet Tracer |
 
 ---
 
