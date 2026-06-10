@@ -13,6 +13,7 @@ Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certi
 | 23 | [EtherChannel](./23-etherchannel/) | LACP, PAgP, static EtherChannel, Layer 3 EtherChannel, IP routing, load balancing | Packet Tracer |
 | 24 | [Floating Static Routes](./24-floating-static-routes/) | OSPF identification, Administrative Distance, floating static routes, route failover, default routes | Packet Tracer |
 | 25 | [EIGRP Configuration](./25-eigrp-configuration/) | Hostname and IP setup, loopback interfaces, EIGRP adjacencies, passive interfaces, auto-summary, unequal-cost load-balancing | Packet Tracer |
+| 26 | [OSPF Configuration Part 1](./26-ospf-part-1/) | Wildcard masks, loopback interfaces, OSPF passive interfaces, ASBR, default route advertisement, E2 routes | Packet Tracer |
 
 ---
 
