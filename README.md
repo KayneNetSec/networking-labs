@@ -14,6 +14,7 @@ Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certi
 | 24 | [Floating Static Routes](./24-floating-static-routes/) | OSPF identification, Administrative Distance, floating static routes, route failover, default routes | Packet Tracer |
 | 25 | [EIGRP Configuration](./25-eigrp-configuration/) | Hostname and IP setup, loopback interfaces, EIGRP adjacencies, passive interfaces, auto-summary, unequal-cost load-balancing | Packet Tracer |
 | 26 | [OSPF Configuration Part 1](./26-ospf-part-1/) | Wildcard masks, loopback interfaces, OSPF passive interfaces, ASBR, default route advertisement, E2 routes | Packet Tracer |
+| 27 | [OSPF Configuration Part 2](./27-ospf-part-2/) | Interface-level OSPF, OSPF neighbour states, reference bandwidth, cost calculation, ASBR, Hello message inspection | Packet Tracer |
 
 ---
 
