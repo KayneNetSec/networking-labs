@@ -170,7 +170,7 @@ R4(config)# int g0/1
 R4(config-if)# ip ospf network point-to-point
 ```
 
-**Second issue — missing routes on R2 and R4:**
+**Second issue - missing routes on R2 and R4:**
 
 After fixing the network type, R4's routing table was checked:
 
@@ -180,7 +180,7 @@ R4(config-if)# do show ip route
 
 ![R4 show ip route - missing expected OSPF routes from R2](./screenshots/screenshot_9.png)
 
-Routes for 192.168.12.0/30 and 10.0.1.0/24 were missing. R2's routing table showed the same problem:
+Routes for 192.168.12.0/30 and 10.0.1.0/24 were missing. R2's routing table showed a similar issue:
 
 ```
 R2(config-if)# do show ip route
@@ -420,5 +420,5 @@ This was the most troubleshooting-heavy lab so far. Task 2 had two separate issu
 
 ---
 
-*Lab file: `Day_28_Lab_-_OSPF__Part_3_.pkt`*  
+*Lab file: `Day_28_Lab_-_OSPF_Part_3_.pkt`*  
 *Jeremy's IT Lab - Day 28 | Independent CCNA Study*
