@@ -15,6 +15,8 @@ Configure and verify floating static routes as backup paths in a multi-router to
 
 ## Topology Overview
 
+![Topology Screenshot](./screenshots/screenshot_tp.png)
+
 Enterprise A runs two routers (R1 and R2) connected via an internal link, with connectivity to an ISP for internet access. SRV1 sits behind R2 on the 10.0.2.0/24 subnet, and PC1 sits behind R1 on the 10.0.1.0/24 subnet.
 
 | Device | Role |
