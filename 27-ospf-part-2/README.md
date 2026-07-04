@@ -15,6 +15,8 @@ Continue building on OSPF configuration across a four-router topology. This lab 
 
 ## Topology Overview
 
+![Topology Screenshot](./screenshots/screenshot_tp.png)
+
 A four-router topology (R1, R2, R3, R4) with PC1 connected to R4's local network. R1 connects to an ISP router (ISPR1) for internet access. ISPR1 does not require configuration.
 
 | Device | Role |
