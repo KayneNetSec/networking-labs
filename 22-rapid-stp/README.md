@@ -15,6 +15,8 @@ Analyse and configure Rapid Spanning Tree Protocol (RSTP) across a four-switch t
 
 ## Topology Overview
 
+![Topology screenshot](./screenshots/screenshot_tp.png)
+
 A four-switch topology (SW1, SW2, SW3, SW4) running RSTP (802.1w). The topology includes both point-to-point switch connections and shared hub connections, which affect port role assignment.
 
 | Switch | MAC Address    | Initial Role    |
