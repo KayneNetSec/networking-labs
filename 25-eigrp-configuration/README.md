@@ -15,6 +15,8 @@ Configure and verify EIGRP across a four-router topology. This lab covers hostna
 
 ## Topology Overview
 
+![Topology Screenshot](./screenshots/screenshot_tp.png)
+
 A four-router topology (R1, R2, R3, R4) with PC1 connected to R4's local network. All devices required full configuration from scratch including hostnames, IP addresses and routing.
 
 | Device | Interfaces Configured |
