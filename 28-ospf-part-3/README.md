@@ -15,6 +15,8 @@ Troubleshoot and extend an existing OSPF topology. This lab covers serial link c
 
 ## Topology Overview
 
+![Topology Screenshot](./screenshots/screenshot_tp.png)
+
 The network was pre-configured with IP addresses and OSPF. A new serial connection between R1 and R2 was added and required manual configuration. R3, R4, and R5 required troubleshooting to resolve OSPF adjacency and routing issues.
 
 | Device | Role |
