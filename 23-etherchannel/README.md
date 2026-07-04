@@ -17,6 +17,8 @@ Configure and verify EtherChannel across a multi-switch topology. This lab cover
 
 ## Topology Overview
 
+![Topology Screenshot](./screenshots/screenshot_tp.png)
+
 A four-switch topology consisting of two access switches (ASW1, ASW2) and two distribution switches (DSW1, DSW2).
 
 | Switch | EtherChannel Role |
