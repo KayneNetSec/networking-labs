@@ -15,6 +15,8 @@ Analyse and alter Spanning Tree Protocol (STP) behaviour across a four-switch to
 
 ## Topology Overview
 
+![Topology Screenshot](./screenshots/screenshot_tp.png)
+
 A four-switch topology (SW1, SW2, SW3, SW4) interconnected via FastEthernet interfaces, running IEEE 802.1D STP across **VLAN 1** and **VLAN 2**.
 
 | Switch | MAC Address     | Initial Role     |
