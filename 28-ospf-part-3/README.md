@@ -1,8 +1,8 @@
 # Lab 28 - OSPF Configuration (Part 3)
 
-**Platform:** Cisco Packet Tracer  
-**Source:** Jeremy's IT Lab - Day 28  
-**Category:** Network / Routing  
+**Platform:** Cisco Packet Tracer
+**Source:** Jeremy's IT Lab - Day 28
+**Category:** Network / Routing
 **Difficulty:** Intermediate
 
 ---
