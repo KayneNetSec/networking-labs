@@ -1,9 +1,9 @@
 # Lab 29 - HSRP Configuration
 
-**Platform:** Cisco Packet Tracer
-**Source:** Jeremy's IT Lab - Day 29
-**Category:** Network / Redundancy
-**Difficulty:** Intermediate
+**Platform:** Cisco Packet Tracer  
+**Source:** Jeremy's IT Lab - Day 29  
+**Category:** Network / Redundancy  
+**Difficulty:** Intermediate  
 
 ---
 
