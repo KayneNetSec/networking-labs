@@ -16,6 +16,7 @@ Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certi
 | 26 | [OSPF Configuration Part 1](./26-ospf-part-1/) | Wildcard masks, loopback interfaces, OSPF passive interfaces, ASBR, default route advertisement, E2 routes | Packet Tracer |
 | 27 | [OSPF Configuration Part 2](./27-ospf-part-2/) | Interface-level OSPF, OSPF neighbour states, reference bandwidth, cost calculation, ASBR, Hello message inspection | Packet Tracer |
 | 28 | [OSPF Configuration Part 3](./28-ospf-part-3/) | Serial DCE/DTE, clock rate, network type mismatch, Hello/Dead timer mismatch, ASBR, LSDB, LSA types | Packet Tracer |
+| 29 | .[HSRP Configuration](./29-hsrp-configuration/) | Virtual IP, HSRPv2, priority and preemption, failover testing, virtual MAC address | Packet Tracer |
 
 ---
 
@@ -30,6 +31,7 @@ Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certi
 - Floating Static Routes
 - OSPF
 - EIGRP
+- HSRP
 
 ---
 
