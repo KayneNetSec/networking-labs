@@ -3,7 +3,7 @@
 **Platform:** Cisco Packet Tracer  
 **Source:** Jeremy's IT Lab - Day 24  
 **Category:** Network / Routing  
-**Difficulty:** Intermediate
+**Difficulty:** Foundational / Intermediate
 
 ---
 
