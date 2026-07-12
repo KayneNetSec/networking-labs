@@ -34,7 +34,7 @@ Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certi
 - EIGRP
 - HSRP
 - Wireshark
-- TCP/IP Protocol Analysis
+- TCP/IP 
 
 ---
 
