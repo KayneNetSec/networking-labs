@@ -7,7 +7,7 @@
 
 ---
 
-## Objective
+## Objective 
 
 Configure IPv6 addressing on a pre-built IPv4 topology to create a dual-stack network. This lab covers enabling IPv6 routing, configuring IPv6 addresses on router interfaces and end hosts, IPv6 address abbreviation rules, link-local addresses and verifying connectivity across both IPv4 and IPv6.
 
