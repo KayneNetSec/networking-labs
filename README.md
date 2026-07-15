@@ -2,6 +2,8 @@
 
 Hands-on Cisco Packet Tracer and cybersecurity labs completed as part of a Certificate IV in Cyber Security and independent CCNA study. Covers switching, routing and network security configuration.
 
+Each lab is completed independently before any demonstration video is consulted. Where video guidance was used, it is noted in the write-up.
+
 ---
 
 ## Labs
