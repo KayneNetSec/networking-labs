@@ -40,7 +40,8 @@ All routers were unconfigured on startup, with default hostnames of "Router" and
 ```
 Router# show ip interface brief
 ```
-All outputting something similar to this:
+All outputting something similar to this:    
+
 ![Router show ip interface brief - all interfaces unassigned](./screenshots/screenshot_1.png)
 
 **Hostnames:**
