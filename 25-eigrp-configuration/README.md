@@ -231,7 +231,7 @@ R2# show ip interface brief
 
 ![R2 show ip interface brief - F1/0 showing wrong IP address 10.0.21.1](./screenshots/screenshot_6.png)
 
-The problem was immediately visible. The F1/0 interface on R2 had been configured with the wrong IP address — `10.0.21.1` instead of `10.0.24.1`. This was a typo made during Task 1.
+The problem was immediately visible. The F1/0 interface on R2 had been configured with the wrong IP address, `10.0.21.1` instead of `10.0.24.1`. This was a typo made during Task 1.
 
 This was corrected using:
 
@@ -309,7 +309,7 @@ R1(config-router)# do show ip route
 
 ![R1 show ip route - 2 routes shown for 192.168.4.0/24](./screenshots/screenshot_8.png)
 
-Two routes are now shown for 192.168.4.0/24 — one via R2 (the best route) and one via R3 (the alternate route). The R3 route's metric falls within 2x the metric of R2's route, so it qualifies under the variance 2 setting.
+Two routes are now shown for 192.168.4.0/24, one via R2 (the best route) and one via R3 (the alternate route). The R3 route's metric falls within 2x the metric of R2's route, so it qualifies under the variance 2 setting.
 
 ---
 
