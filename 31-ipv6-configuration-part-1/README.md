@@ -170,5 +170,5 @@ This was a clean introductory IPv6 lab that built directly on my IPv4 knowledge,
 
 ---
 
-*Lab file: `Day_31_Lab_-_IPv6_Configuration__Part_1_.pkt`*
+*Lab file: `Day_31_Lab_-_IPv6_Configuration__Part_1_.pkt`*  
 *Jeremy's IT Lab - Day 31 | Independent CCNA Study*
