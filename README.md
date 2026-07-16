@@ -21,6 +21,7 @@ Each lab is completed independently before any demonstration video is consulted.
 | 29 | [HSRP Configuration](./29-hsrp-configuration/) | Virtual IP, HSRPv2, priority and preemption, failover testing, virtual MAC address | Packet Tracer |
 | 30 | [TCP Wireshark Analysis](./30-tcp-wireshark-analysis/) | TCP three-way handshake, TCP four-way termination, Wireshark packet capture, ephemeral ports, sequence numbers | Wireshark |
 | 31 | [IPv6 Configuration Part 1](./31-ipv6-configuration-part-1/) | IPv6 unicast routing, IPv6 addressing, address abbreviation, link-local addresses, dual-stack | Packet Tracer |
+| 32 | [IPv6 Configuration Part 2](./32-ipv6-configuration-part-2/) | EUI-64 addressing, manual interface ID calculation, ipv6 enable, link-local addresses, IPv6 static routes | Packet Tracer |
 
 ---
 
