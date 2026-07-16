@@ -229,5 +229,5 @@ This lab showed how HSRP provides transparent gateway redundancy without requiri
 
 ---
 
-*Lab file: `Day_29_Lab_-_HSRP_Configuration.pkt`*
+*Lab file: `Day_29_Lab_-_HSRP_Configuration.pkt`*  
 *Jeremy's IT Lab - Day 29 | Independent CCNA Study*
