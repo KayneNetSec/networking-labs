@@ -368,5 +368,5 @@ This was a more involved IPv6 lab than Part 1, with the manual EUI-64 calculatio
 
 ---
 
-*Lab file: `Day_32_Lab_-_IPv6_Configuration__Part_2_.pkt`*
+*Lab file: `Day_32_Lab_-_IPv6_Configuration__Part_2_.pkt`*  
 *Jeremy's IT Lab - Day 32 | Independent CCNA Study*
