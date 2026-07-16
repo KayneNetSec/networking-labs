@@ -52,13 +52,13 @@ G0/1 MAC address: `0030.f236.4502`
 
 Now the EUI-64 begins.
 
-**Step 1** - Divide the MAC address in half
+**Step 1** - Divide the MAC address in half  
 Dividing in half gives `0030.f2 | 36.4502`.
 
-**Step 2** - Insert hexadecimal `FFFE` into the middle of the address
+**Step 2** - Insert hexadecimal `FFFE` into the middle of the address  
 Inserting FFFE gives `0030:f2FF:FE36:4502`.
 
-**Step 3** - Invert the 7th bit
+**Step 3** - Invert the 7th bit  
 `0030:f2FF:FE36:4502`
 Each digit is 4 bits, so `00` = 8 bits, meaning the 7th bit is in the second digit `0`
 
@@ -79,13 +79,13 @@ R1(config)#do show interfaces g0/0
 
 MAC address: `0030.f236.4501`
 
-**Step 1** - Divide the MAC address in half
+**Step 1** - Divide the MAC address in half  
 Dividing in half gives `0030.f2 | 36.4501`.
 
-**Step 2** - Insert hexadecimal `FFFE` into the middle of the address
+**Step 2** - Insert hexadecimal `FFFE` into the middle of the address  
 Inserting FFFE gives `0030:f2FF:FE36:4501`
 
-**Step 3** - Invert the 7th bit
+**Step 3** - Invert the 7th bit  
 The 7th bit falls in the same position as G0/1. The process is the same.
 
 Resulting EUI-64 interface ID is `0230:f2FF:FE36:4501`.
@@ -101,13 +101,13 @@ R2(config)#do show interfaces g0/0
 
 MAC address: `0001.63b0.b801`
 
-**Step 1** - Divide the MAC address in half
+**Step 1** - Divide the MAC address in half  
 Dividing in half gives `0001.63 | b0.b801`. 
 
-**Step 2** - Insert hexadecimal `FFFE` into the middle of the address
+**Step 2** - Insert hexadecimal `FFFE` into the middle of the address  
 Inserting FFFE gives `0001:63FF:FEb0:b801`.
 
-**Step 3** - Invert the 7th bit
+**Step 3** - Invert the 7th bit  
 The 7th bit again falls in the second digit, which is `0`, so the result is the same `0x2`.  
 
 The resulting EUI-64 interface ID is `0201:63FF:FEb0:b801`.
@@ -123,13 +123,13 @@ R2(config)#do show interfaces g0/1
 
 MAC address: `0001.63b0.b802`
 
-**Step 1** - Divide the MAC address in half
+**Step 1** - Divide the MAC address in half  
 Dividing in half gives `0001.63 | b0.b802`.
 
-**Step 2** - Insert hexadecimal `FFFE` into the middle of the address
+**Step 2** - Insert hexadecimal `FFFE` into the middle of the address  
 Inserting FFFE gives `0001:63FF:FEb0:b802`
 
-**Step 3** - Invert the 7th bit
+**Step 3** - Invert the 7th bit  
 The 7th bit falls in the same position as the others, on `0`. 
 
 The resulting EUI-64 interface ID is `0201:63FF:FEb0:b802`.
