@@ -22,6 +22,7 @@ Each lab is completed independently before any demonstration video is consulted.
 | 30 | [TCP Wireshark Analysis](./30-tcp-wireshark-analysis/) | TCP three-way handshake, TCP four-way termination, Wireshark packet capture, ephemeral ports, sequence numbers | Wireshark |
 | 31 | [IPv6 Configuration Part 1](./31-ipv6-configuration-part-1/) | IPv6 unicast routing, IPv6 addressing, address abbreviation, link-local addresses, dual-stack | Packet Tracer |
 | 32 | [IPv6 Configuration Part 2](./32-ipv6-configuration-part-2/) | EUI-64 addressing, manual interface ID calculation, ipv6 enable, link-local addresses, IPv6 static routes | Packet Tracer |
+| 33 | [IPv6 Static Routes](./33-ipv6-static-routes/) | SLAAC, NDP, RS/RA, fully specified IPv6 static routes, floating static routes, link-local next hops, failover testing | Packet Tracer |
 
 ---
 
