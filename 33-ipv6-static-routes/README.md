@@ -224,7 +224,7 @@ The main route immediately returned to the routing table and the floating route 
 
 ## Reflection
 
-This lab tied together several IPv6 concepts from the previous two labs into a more complete topology. The most interesting part was discovering that R2 had the same link-local address assigned to both of its serial interfaces, which made gave insight into why specifying an exit interface is necessary when using link-local next hops in IPv6 static routes. The SLAAC process was also straightforward to configure, it was a good example of how IPv6 handles things a bit more efficiently than IPv4, which relies on dedicated protocols (ARP) and servers (DHCP).
+This lab tied together several IPv6 concepts from the previous two labs into a more complete topology. The most interesting part was discovering that R2 had the same link-local address assigned to both of its serial interfaces, which gave insight into why specifying an exit interface is necessary when using link-local next hops in IPv6 static routes. The SLAAC process was also straightforward to configure, it was a good example of how IPv6 handles things a bit more efficiently than IPv4, which relies on dedicated protocols (ARP) and servers (DHCP).
 
 ---
 
