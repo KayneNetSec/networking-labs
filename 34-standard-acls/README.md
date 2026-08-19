@@ -144,7 +144,7 @@ R2(config-std-nacl)#permit any
 ```
 > Note: This is incorrect, I used the wrong IP
 
-After starting the next ACE, I noticed I made a mistake on this ACL. The deny entry used `172.168.2.0` instead of the correct `172.16.2.0`. Luckily I caught this error, in a real network this could become a major issue, as the intended subnet would not be blocked at all. The ACL was deleted and re-created with the correct address:
+After starting the next ACL, I noticed I made a mistake on this ACL. The deny entry used `172.168.2.0` instead of the correct `172.16.2.0`. Luckily I caught this error, in a real network this could become a major issue, as the intended subnet would not be blocked at all. The ACL was deleted and re-created with the correct address:
 
 ```
 R2(config)#no ip access-list standard TO_192.168.2.0/24
