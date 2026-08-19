@@ -1,9 +1,9 @@
 # Lab 33 - IPv6 Static Routes
 
-**Platform:** Cisco Packet Tracer	
-**Source:** Jeremy's IT Lab - Day 33	
-**Category:** Network / Routing	  
-**Difficulty:** Intermediate
+**Platform:** Cisco Packet Tracer	  
+**Source:** Jeremy's IT Lab - Day 33	  
+**Category:** Network / Routing	    
+**Difficulty:** Intermediate  
 
 ---
 
