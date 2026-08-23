@@ -122,8 +122,9 @@ The direct IP ping succeeded, confirming only DNS traffic is being dropped.
 
 
 **Policy 3: Hosts in 172.16.2.0/24 can't access the HTTP or HTTPS services on SRV2**
-
+```
 R1(config-if)#ip access-list extended SRV2_HTTP-S
+```
 To create the ACL
 
 The third policy requires blocking HTTP (port 80) and HTTPS (port 443) from 172.16.2.0/24 to SRV2 (192.168.2.100). 
