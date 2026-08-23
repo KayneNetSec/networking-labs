@@ -24,6 +24,7 @@ Each lab is completed independently before any demonstration video is consulted.
 | 32 | [IPv6 Configuration Part 2](./32-ipv6-configuration-part-2/) | EUI-64 addressing, manual interface ID calculation, ipv6 enable, link-local addresses, IPv6 static routes | Packet Tracer |
 | 33 | [IPv6 Static Routes](./33-ipv6-static-routes/) | SLAAC, NDP, RS/RA, fully specified IPv6 static routes, floating static routes, link-local next hops, failover testing | Packet Tracer |
 | 34 | [Standard ACLs](./34-standard-acls/) | OSPF configuration, standard numbered ACLs, standard named ACLs, wildcard masks, implicit deny, ACL placement, access-group | Packet Tracer |
+| 35 | [Extended ACLs](./35-extended-acls/) | Named extended ACL syntax, protocol and port filtering, ACL placement, one-ACL-per-interface limit, ACL verification | Packet Tracer |
 
 ---
 
