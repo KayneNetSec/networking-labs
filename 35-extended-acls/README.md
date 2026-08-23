@@ -125,7 +125,7 @@ The direct IP ping succeeded, confirming only DNS traffic is being dropped.
 ```
 R1(config-if)#ip access-list extended SRV2_HTTP-S
 ```
-To create the ACL
+This is done create the ACL.
 
 The third policy requires blocking HTTP (port 80) and HTTPS (port 443) from 172.16.2.0/24 to SRV2 (192.168.2.100). 
 As I started to configure this ACL, I realised that traffic from that subnet enters R1 on G0/1, the same interface TO_PC1 was already applied to inbound. Only one ACL can be active per direction per interface, so the two ACLs need to be merged into one.
