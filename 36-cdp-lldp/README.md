@@ -107,13 +107,13 @@ With all addressing and interface information gathered, the topology was fully l
 CDP can be disabled per-interface using `no cdp enable` in interface configuration mode.
 
 ```
-SW1(config)# interface fa0/10
+SW1(config)# int fa0/10
 SW1(config-if)# no cdp enable
 
-SW2(config)# interface fa0/1
+SW2(config)# int fa0/1
 SW2(config-if)# no cdp enable
 
-SW3(config)# interface fa0/24
+SW3(config)# int fa0/24
 SW3(config-if)# no cdp enable
 ```
 
@@ -155,15 +155,15 @@ These were only applied to interfaces connected to other network devices, not to
 Each switch had a single interface to configure:
 
 ```
-SW1(config)# interface g0/1
+SW1(config)# int g0/1
 SW1(config-if)# lldp transmit
 SW1(config-if)# lldp receive
 
-SW2(config)# interface g0/2
+SW2(config)# int g0/2
 SW2(config-if)# lldp transmit
 SW2(config-if)# lldp receive
 
-SW3(config)# interface g0/1
+SW3(config)# int g0/1
 SW3(config-if)# lldp transmit
 SW3(config-if)# lldp receive
 ```
@@ -172,15 +172,15 @@ Each router had three interfaces to configure.
 The `interface range` command was used to apply both commands across all three interfaces at once, avoiding the need to repeat the process per interface:
 
 ```
-R1(config)# interface range g0/0-2
+R1(config)# int range g0/0-2
 R1(config-if-range)# lldp transmit
 R1(config-if-range)# lldp receive
 
-R2(config)# interface range g0/0-2
+R2(config)# int range g0/0-2
 R2(config-if-range)# lldp transmit
 R2(config-if-range)# lldp receive
 
-R3(config)# interface range g0/0-2
+R3(config)# int range g0/0-2
 R3(config-if-range)# lldp transmit
 R3(config-if-range)# lldp receive
 ```
