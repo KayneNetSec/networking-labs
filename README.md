@@ -25,6 +25,7 @@ Each lab is completed independently before any demonstration video is consulted.
 | 33 | [IPv6 Static Routes](./33-ipv6-static-routes/) | SLAAC, NDP, RS/RA, fully specified IPv6 static routes, floating static routes, link-local next hops, failover testing | Packet Tracer |
 | 34 | [Standard ACLs](./34-standard-acls/) | OSPF configuration, standard numbered ACLs, standard named ACLs, wildcard masks, implicit deny, ACL placement, access-group | Packet Tracer |
 | 35 | [Extended ACLs](./35-extended-acls/) | Named extended ACL syntax, protocol and port filtering, ACL placement, one-ACL-per-interface limit, ACL verification | Packet Tracer |
+| 36 | [CDP and LLDP](./36-cdp-lldp/) | CDP neighbour discovery, show cdp neighbors detail, disabling CDP per-interface and globally, LLDP, Tx/Rx interface configuration | Packet Tracer |
 
 ---
 
@@ -44,6 +45,8 @@ Each lab is completed independently before any demonstration video is consulted.
 - TCP/IP
 - IPv6
 - Access Control Lists (ACLs)
+- CDP (Cisco Discovery Protocol)
+- LLDP (Link Layer Discovery Protocol)
 
 ---
 
