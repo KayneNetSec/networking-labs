@@ -9,7 +9,7 @@
 
 ## Objective
 
-Use CDP commands to identify and document missing IP addresses and interface IDs across a three-router, three-switch topology, then transition the network from CDP to LLDP. This lab covers CDP discovery methods for PCs and switches, disabling CDP per-interface and globally and enabling LLDP globally with Tx/Rx configured on individual interfaces.
+Use CDP (Cisco Discovery Protocol) commands to identify and document missing IP addresses and interface IDs across a three-router, three-switch topology, then transition the network from CDP to LLDP. This lab covers CDP discovery methods for PCs and switches, disabling CDP per-interface and globally and enabling LLDP globally with Tx/Rx configured on individual interfaces.
 
 ---
 
