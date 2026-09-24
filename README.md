@@ -52,6 +52,6 @@ Each lab is completed independently before any demonstration video is consulted.
 
 ## Status
 
-Active - new labs added regularly as part of ongoing CCNA study and Cert IV in Cyber Security coursework.
+Paused - These labs have been put on hold, as I have started a new position and must focus on that for the time being. 
 
 Stay Tuned :)
